@@ -47,8 +47,17 @@ Follow this procedure just create new methods i got data for the movie details p
 Same thing for the order page as well. Order page image is given below. 
 
 ![image](https://user-images.githubusercontent.com/62865086/132087254-f04455ab-5868-4995-aeed-4f7b4cfdaec3.png)
+
+
 ![image](https://user-images.githubusercontent.com/62865086/132087259-bbaccd8c-2dbf-4576-8bcf-8832947ecce6.png)
+
+
+
 ![image](https://user-images.githubusercontent.com/62865086/132087264-ae76e7fd-7b3f-4dfb-b3d6-46013ca4a696.png)
+
+
+
+
 ![image](https://user-images.githubusercontent.com/62865086/132087272-5fe0b7c3-b7c6-4cea-b517-91c92be94333.png)
 
 
